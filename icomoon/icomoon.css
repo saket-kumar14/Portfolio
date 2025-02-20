@@ -85,6 +85,17 @@
 .icon-twitter:before {
   content: "\f099";
 }
+.icon-linkedin::before {
+  content: "\ea82"; /* LinkedIn icon character code */
+}
+
+.icon-x::before {
+  content: "\ea0f"; /* X icon character code */
+}
+
+.icon-envelop::before {
+  content: "\e9b5"; /* Envelop icon character code */
+}
 .icon-facebook:before {
   content: "\f09a";
 }
