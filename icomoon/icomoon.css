@@ -85,25 +85,23 @@
 .icon-twitter:before {
   content: "\f099";
 }
-.icon-linkedin::before {
-  content: "\ea82"; /* LinkedIn icon character code */
+.icon-linkedin:before {
+  content: "\eac9";
 }
-
-.icon-x::before {
-  content: "\ea0f"; /* X icon character code */
+.icon-github:before {
+  content: "\eab0";
 }
-
-.icon-envelop::before {
-  content: "\e9b5"; /* Envelop icon character code */
+.icon-x:before {
+  content: "\e900";
+}
+.icon-envelop:before {
+  content: "\e945";
 }
 .icon-facebook:before {
   content: "\f09a";
 }
 .icon-facebook-f:before {
   content: "\f09a";
-}
-.icon-github:before {
-  content: "\eab0";
 }
 .icon-youtube-play:before {
   content: "\f16a";
