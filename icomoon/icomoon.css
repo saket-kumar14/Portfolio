@@ -104,3 +104,16 @@
 .icon-segment:before {
   content: "\e90f";
 }
+
+.icon-linkedin:before {
+  content: "\eac9";
+}
+.icon-x:before {
+  content: "\e900";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-github:before {
+  content: "\eab0";
+}
